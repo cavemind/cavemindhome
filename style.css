@@ -15,7 +15,7 @@ body {
 .container { 
     margin-left: auto;
     margin-right: auto; 
-    width: 80%; 
+    width: 100%; 
     padding-left: 50px; }
 
 h1 { 
@@ -54,7 +54,7 @@ h2 {
 
 .otherbox {
     padding-top: -20px;
-    background-color:rgb(134, 250, 140)
+    background-color:white
 }
 
 .other{
